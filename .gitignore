@@ -1,0 +1,12 @@
+x64
+Debug
+Tmp
+*.tmp
+*.filters
+*.user
+*.suo
+*.opensdf
+*.opendb
+*.vcxproj.user
+*.vs
+*.vcxproj

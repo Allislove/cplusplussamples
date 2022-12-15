@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeyendoCadenas", "LeyendoCadenas\LeyendoCadenas.vcxproj", "{8FD8860B-183C-46B1-BBBC-E16DE35E8A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD8860B-183C-46B1-BBBC-E16DE35E8A98}.Debug|x64.ActiveCfg = Debug|x64
+		{8FD8860B-183C-46B1-BBBC-E16DE35E8A98}.Debug|x64.Build.0 = Debug|x64
+		{8FD8860B-183C-46B1-BBBC-E16DE35E8A98}.Debug|x86.ActiveCfg = Debug|Win32
+		{8FD8860B-183C-46B1-BBBC-E16DE35E8A98}.Debug|x86.Build.0 = Debug|Win32
+		{8FD8860B-183C-46B1-BBBC-E16DE35E8A98}.Release|x64.ActiveCfg = Release|x64
+		{8FD8860B-183C-46B1-BBBC-E16DE35E8A98}.Release|x64.Build.0 = Release|x64
+		{8FD8860B-183C-46B1-BBBC-E16DE35E8A98}.Release|x86.ActiveCfg = Release|Win32
+		{8FD8860B-183C-46B1-BBBC-E16DE35E8A98}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF75A77D-9FFB-43E8-8E91-BC826B124B5F}
+	EndGlobalSection
+EndGlobal
