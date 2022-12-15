@@ -10,3 +10,5 @@ Tmp
 *.vcxproj.user
 *.vs
 *.vcxproj
+*.sln
+*.sdf
